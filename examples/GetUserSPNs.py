@@ -15,7 +15,7 @@
 #   will encrypt the ticket with the account the SPN is running under, this could be used for an offline
 #   bruteforcing attack of the SPNs account NTLM hash if we can gather valid TGS for those SPNs.
 #   This is part of the kerberoast attack researched by Tim Medin (@timmedin) and detailed at
-#   https://files.sans.org/summit/hackfest2014/PDFs/Kicking%20the%20Guard%20Dog%20of%20Hades%20-%20Attacking%20Microsoft%20Kerberos%20%20-%20Tim%20Medin(1).pdf
+#   https://web.archive.org/web/20190216213052/https://files.sans.org/summit/hackfest2014/PDFs/Kicking%20the%20Guard%20Dog%20of%20Hades%20-%20Attacking%20Microsoft%20Kerberos%20%20-%20Tim%20Medin(1).pdf
 #
 #   Original idea of implementing this in Python belongs to @skelsec and his
 #   https://github.com/skelsec/PyKerberoast project
